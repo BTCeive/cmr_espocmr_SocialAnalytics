@@ -1,0 +1,9 @@
+{
+  "name": "SocialAnalytics",
+  "version": "0.1.0",
+  "description": "Modulo para analisis de X, Facebook, Instagram y TikTok.",
+  "author": "Emprende_Esthetic",
+  "type": "extension",
+  "acceptableVersions": [">=9.0.0"],
+  "php": [">=8.0"]
+}

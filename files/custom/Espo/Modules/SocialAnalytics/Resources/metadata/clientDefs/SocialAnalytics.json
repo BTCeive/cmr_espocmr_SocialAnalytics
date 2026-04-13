@@ -1,0 +1,6 @@
+{
+  "settings": {
+    "view": "social-analytics:views/settings/env",
+    "acl": "admin"
+  }
+}

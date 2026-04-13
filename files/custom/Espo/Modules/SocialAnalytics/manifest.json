@@ -1,0 +1,12 @@
+{
+  "name": "SocialAnalytics",
+  "label": "Análisis de Redes Sociales",
+  "description": "Módulo para análisis de X (Twitter), Facebook, Instagram y TikTok.",
+  "author": "Emprende_Esthetic",
+  "version": "0.1.0",
+  "type": "extension",
+  "installable": true,
+  "removable": true,
+  "dependencies": [],
+  "scopes": ["X", "Facebook", "Instagram", "TikTok"]
+}
