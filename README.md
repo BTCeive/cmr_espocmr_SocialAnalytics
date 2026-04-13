@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # EspoCRM SocialAnalytics
 
 Módulo de análisis de redes sociales para EspoCRM. Permite la integración y visualización de métricas de X (Twitter), Facebook, Instagram y TikTok directamente en EspoCRM.
@@ -8,11 +9,6 @@ Módulo de análisis de redes sociales para EspoCRM. Permite la integración y v
 - Visualización de métricas y analíticas sociales en EspoCRM.
 - Backend en PHP siguiendo la estructura de módulos nativos de EspoCRM.
 - Frontend integrado en la interfaz de EspoCRM.
-- Configuración segura mediante archivo `.env`.
-
-## Estructura del módulo
-
-```
 Espo/
 └── Modules/
     └── SocialAnalytics/
@@ -77,9 +73,6 @@ Para instalar el módulo como extensión desde la interfaz de EspoCRM:
 - No incluyas nunca datos sensibles ni el archivo `.env` en el repositorio.
 - Usa el archivo `.env.example` como plantilla para compartir la estructura de configuración.
 - Documenta cualquier cambio relevante en este README.
-
-## Contribuir
-
 1. Haz un fork del repositorio.
 2. Crea una rama para tu funcionalidad o corrección.
 3. Haz un pull request describiendo claramente tus cambios.
@@ -87,3 +80,7 @@ Para instalar el módulo como extensión desde la interfaz de EspoCRM:
 ## Licencia
 
 Este proyecto es open source bajo la licencia MIT.
+=======
+# cmr_espocmr
+extensión para EspoCMR
+>>>>>>> 7df9616bffbcc1be5fcfad85dc99c88b279562fd
