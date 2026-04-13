@@ -1,4 +1,6 @@
-<div class="panel panel-default">
+<link rel="stylesheet" href="/custom/Espo/Modules/SocialAnalytics/Resources/client/styles/theme-burgundy.css">
+<div class="social-analytics-theme">
+    <div class="panel panel-default">
     <div class="panel-heading">
         <h4>Configuración de APIs de Redes Sociales</h4>
     </div>
@@ -38,5 +40,6 @@
             </div>
             <button type="button" class="btn btn-primary" onclick="view.actionSave()">Guardar</button>
         </form>
+    </div>
     </div>
 </div>
